@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Hayden
+- 👀 I’m interested in learning C++, Python, and as many languages I can get my hands on.
+- 🌱 I’m currently learning C++ for my Computer Science degree at the University of Houston - Downtown. I am making this as a place to add projects and such for people to check out to see what I've done!
